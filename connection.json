@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
-  "warehouse" : "",
-  "database"  : "",
-  "schema"    : ""
+  "account": "vx68710.eu-west-1",
+  "user": "1series",
+  "password": "",
+  "role": "accountadmin",
+  "warehouse": "bangladesh_wh",
+  "database": "bangladesh_db",
+  "schema": "bangladesh_schema"
 }
